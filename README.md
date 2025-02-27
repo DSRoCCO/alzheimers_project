@@ -5,7 +5,7 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 #### Resultados Iniciales (sin optimización)
 - **Random Forest:** F1-Score = 0.9033  
 - **XGBoost:** F1-Score = 0.8778
-- - **Gradient Boosting Classifier:** F1-Score = 0.8711  
+- **Gradient Boosting Classifier:** F1-Score = 0.8711  
 
 ![Comparacion de Modelos](img/comparacion_modelos_val_cross_relevantes.png)
 
